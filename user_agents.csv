@@ -1,0 +1,218 @@
+Name,Num,Mobile
+# Note: The source field of the tweet, must be encoded to ascii from unicode, with errors ignored (str.encode('ascii', 'ignore')) to get a match
+web,93679,FALSE
+"<a href=""https://www.myfxbook.com"" rel=""nofollow"">Myfxbook</a>",13,FALSE
+"<a href=""https://chrome.google.com/extensions/detail/encaiiljifbdbjlphpgpiimidegddhic"" rel=""nofollow"">Chromed Bird</a>",142,FALSE
+"<a href=""http://zhyu.me/"" rel=""nofollow"">Hilbert Space~</a>",20,FALSE
+"<a href=""http://yfrog.com"" rel=""nofollow"">Yfrog</a>",36,MIXED
+"<a href=""http://wx.a2ad.com/"" rel=""nofollow"">Newswire</a>",123,FALSE
+"<a href=""http://www.zepan.org/software/tweetly-updater/"" rel=""nofollow"">Tweetly Updater</a>",24,FALSE
+"<a href=""http://www.yousavetube.com"" rel=""nofollow"">today youtube</a>",32,FALSE
+"<a href=""http://www.yoono.com"" rel=""nofollow"">yoono</a>",157,MIXED
+"<a href=""http://www.yahoo.com"" rel=""nofollow"">Yahoo!</a>",30,FALSE
+"<a href=""http://www.wpsyndicator.com"" rel=""nofollow"">WPSyndicator</a>",18,FALSE
+"<a href=""http://www.where.com"" rel=""nofollow"">WHERE app</a>",27,FALSE
+"<a href=""http://www.webnextstep.com"" rel=""nofollow"">uiop</a>",20,FALSE
+"<a href=""http://www.weather-display.com/files.php"" rel=""nofollow"">Weather Display</a>",33,FALSE
+"<a href=""http://www.visibli.com"" rel=""nofollow"">Visibli</a>",174,FALSE
+"<a href=""http://www.ustream.tv"" rel=""nofollow"">Ustream.TV</a>",140,MIXED
+"<a href=""http://www.typepad.com/"" rel=""nofollow"">TypePad</a>",20,FALSE
+"<a href=""http://www.twitterlive.net"" rel=""nofollow"">Tweetlive</a>",22,FALSE
+"<a href=""http://www.twittergadget.com"" rel=""nofollow"">tGadget</a>",60,FALSE
+"<a href=""http://www.twitter.com"" rel=""nofollow"">Twitter for Windows Phone</a>",9,TRUE
+"<a href=""http://www.twittascope.com"" rel=""nofollow"">Twittascope</a>",429,FALSE
+"<a href=""http://www.twitscoop.com"" rel=""nofollow"">Twitscoop</a>",71,MIXED
+"<a href=""http://www.twitjobsearch.com/"" rel=""nofollow"">TwitJobSearch.com Jobs</a>",19,FALSE
+"<a href=""http://www.twitition.com"" rel=""nofollow"">Twitition</a>",35,FALSE
+"<a href=""http://www.twitiq.com"" rel=""nofollow"">TwitIQ</a>",93,FALSE
+"<a href=""http://www.twhirl.org"" rel=""nofollow"">Seesmic twhirl</a>",357,FALSE
+"<a href=""http://www.tweetwawa.com"" rel=""nofollow"">Tweetwawa</a>",58,FALSE
+"<a href=""http://www.tweets60.com/"" rel=""nofollow"">Tweets60</a>",46,TRUE
+"<a href=""http://www.tweetmeapp.com"" rel=""nofollow"">TweetMe for Palm</a>",18,TRUE
+"<a href=""http://www.tweetings.net/"" rel=""nofollow"">Tweetings</a>",7,MIXED
+"<a href=""http://www.tweetdeck.com"" rel=""nofollow"">TweetDeck</a>",451,MIXED
+"<a href=""http://www.twalue.com/"" rel=""nofollow"">Twalue</a>",22,FALSE
+"<a href=""http://www.twalky.com"" rel=""nofollow"">Twalky</a>",266,FALSE
+"<a href=""http://www.twaitter.com"" rel=""nofollow"">Twaitter</a>",526,FALSE
+"<a href=""http://www.tumblr.com/"" rel=""nofollow"">Tumblr</a>",2916,FALSE
+"<a href=""http://www.swift-app.com/"" rel=""nofollow"">Swift</a>",13,TRUE
+"<a href=""http://www.sweeva.com"" rel=""nofollow"">Sweeva</a>",13,FALSE
+"<a href=""http://www.superinhuman.com/badkitty"" rel=""nofollow"">Bad Kitty</a>",14,TRUE
+"<a href=""http://www.sponsoredtweets.com"" rel=""nofollow"">Sponsored Tweets</a>",13,FALSE
+"<a href=""http://www.socialoomph.com"" rel=""nofollow"">SocialOomph</a>",763,FALSE
+"<a href=""http://www.snaptu.com"" rel=""nofollow"">Snaptu</a>",1504,TRUE
+"<a href=""http://www.snaptu.com"" rel=""nofollow"">Snaptu.com</a>",1791,TRUE
+"<a href=""http://www.sidekick.com"" rel=""nofollow"">T-Mobile Sidekick</a>",486,TRUE
+"<a href=""http://www.samsungmobile.com"" rel=""nofollow"">Samsung Mobile</a>",137,TRUE
+"<a href=""http://www.reverbnation.com/"" rel=""nofollow"">ReverbNation</a>",22,FALSE
+"<a href=""http://www.qwitter-client.net"" rel=""nofollow"">Qwitter Client</a>",28,FALSE
+"<a href=""http://www.photozz.com"" rel=""nofollow"">PhotoZZ</a>",32,FALSE
+"<a href=""http://www.panoramicsoft.com/mobileapps/motweets/moTweets.php"" rel=""nofollow"">Panoramic moTweets</a>",242,TRUE
+"<a href=""http://www.osfoora.com"" rel=""nofollow"">Osfoora HD</a>",31,TRUE
+"<a href=""http://www.osfoora.com"" rel=""nofollow"">Osfoora for iPhone</a>",589,TRUE
+"<a href=""http://www.ogapponline.com"" rel=""nofollow"">Original Gangstaz</a>",12,TRUE
+"<a href=""http://www.nimbuzz.com"" rel=""nofollow"">Nimbuzz Mobile</a>",60,TRUE
+"<a href=""http://www.nibirutech.com/"" rel=""nofollow"">TwitBird iPad</a>",5,TRUE
+"<a href=""http://www.nibirutech.com"" rel=""nofollow"">TwitBird</a>",1523,TRUE
+"<a href=""http://www.newzfor.me"" rel=""nofollow"">NewzFor.me</a>",471,FALSE
+"<a href=""http://www.newstreamer.com/"" rel=""nofollow"">Newstreamer</a>",121,FALSE
+"<a href=""http://www.networkedblogs.com/"" rel=""nofollow"">NetworkedBlogs</a>",65,FALSE
+"<a href=""http://www.nambu.com/"" rel=""nofollow"">Nambu</a>",43,FALSE
+"<a href=""http://www.myyearbook.com/"" rel=""nofollow"">myYearbook Share</a>",332,FALSE
+"<a href=""http://www.mytweetplace.com"" rel=""nofollow"">My Tweet  Place</a>",18,FALSE
+"<a href=""http://www.myspace.com/sync"" rel=""nofollow"">MySpace</a>",747,FALSE
+"<a href=""http://www.myfeedme.com"" rel=""nofollow"">MyFeedMe</a>",13,FALSE
+"<a href=""http://www.movatwi.jp"" rel=""nofollow"">www.movatwi.jp</a>",22,TRUE
+"<a href=""http://www.Motorola.com/Consumers/US-EN/Consumer-Product-and-Services/MOTOBLUR/Meet-MOTOBLUR?WT.mc_id=Global_Twitter-to-motoblur&WT.mc_ev=click"" rel=""nofollow"">MOTOBLUR</a>",309,TRUE
+"<a href=""http://www.motorola.com"" rel=""nofollow"">DROID</a>",12,TRUE
+"<a href=""http://www.message-broadcaster.com"" rel=""nofollow"">Message Broadcaster</a>",134,FALSE
+"<a href=""http://www.loopt.com"" rel=""nofollow"">Loopt</a>",29,TRUE
+"<a href=""http://www.linksalpha.com/"" rel=""nofollow"">LinksAlpha</a>",63,FALSE
+"<a href=""http://www.linkedin.com/"" rel=""nofollow"">LinkedIn</a>",131,FALSE
+"<a href=""http://www.linkedin.com/"" rel=""nofollow"">Linkedin Events</a>",67,FALSE
+"<a href=""http://www.likemytweets.com/"" rel=""nofollow"">Like My Tweets</a>",123,FALSE
+"<a href=""http://www.lg.com"" rel=""nofollow"">LG Phone</a>",13,TRUE
+"<a href=""http://www.KIN.com"" rel=""nofollow"">KIN</a>",20,TRUE
+"<a href=""http://www.jobcircle.com"" rel=""nofollow"">JobCircle</a>",11,FALSE
+"<a href=""http://www.jmobileapps.com/"" rel=""nofollow"">Yak Free</a>",19,TRUE
+"<a href=""http://www.htc.com"" rel=""nofollow"">HTC Peep</a>",757,TRUE
+"<a href=""http://www.htc.com"" rel=""nofollow"">  HTC Peep</a>",254,TRUE
+"<a href=""http://www.hootsuite.com"" rel=""nofollow"">HootSuite</a>",49,FALSE
+"<a href=""http://www.google.com/support/youtube/bin/answer.py?hl=en&answer=164577"" rel=""nofollow"">Google</a>",1838,FALSE
+"<a href=""http://www.gokpop.com/"" rel=""nofollow"">GoKpop Awards</a>",13,FALSE
+"<a href=""http://www.flook.it/"" rel=""nofollow"">Flook, the location browser</a>",94,FALSE
+"<a href=""http://www.flipboard.com"" rel=""nofollow"">Flipboard</a>",19,TRUE
+"<a href=""http://www.facebook.com/twitter"" rel=""nofollow"">Facebook</a>",1793,FALSE
+"<a href=""http://www.exaspring.com"" rel=""nofollow"">ExaSpring Information Services</a>",13,FALSE
+"<a href=""http://www.echofon.com/"" rel=""nofollow"">Echofon</a>",703,MIXED
+"<a href=""http://www.digsby.com/?utm_campaign=twitter"" rel=""nofollow"">Digsby</a>",42,FALSE
+"<a href=""http://www.destroytwitter.com"" rel=""nofollow"">DestroyTwitter</a>",68,FALSE
+"<a href=""http://www.deliciousmorsel.com/app/twee"" rel=""nofollow"">Twee2</a>",7,TRUE
+"<a href=""http://www.crouto.com/teewee"" rel=""nofollow"">Teewee</a>",30,TRUE
+"<a href=""http://www.constantcontact.com"" rel=""nofollow"">Constant Contact</a>",21,FALSE
+"<a href=""http://www.chrisfinke.com/addons/twitterbar/"" rel=""nofollow"">TwitterBar</a>",13,FALSE
+"<a href=""http://www.brizzly.com"" rel=""nofollow"">Brizzly</a>",25,FALSE
+"<a href=""http://www.bravenewcode.com/products/wordtwit"" rel=""nofollow"">WordTwit Plugin</a>",175,FALSE
+"<a href=""http://www.bannerweb.ch/unsere-leistungen/wordpress-dev/simple-twitter-status-updates/"" rel=""nofollow"">Simple Twi. Status Updates</a>",23,FALSE
+"<a href=""http://www.askbiography.com"" rel=""nofollow"">AskBiography - News</a>",34,FALSE
+"<a href=""http://www.ajaymatharu.com/"" rel=""nofollow"">Tweet Old Post</a>",115,FALSE
+"<a href=""http://www.3taps.com/"" rel=""nofollow"">3taps Notifier</a>",55,FALSE
+"<a href=""http://who.unfollowed.me"" rel=""nofollow"">Who Unfollowed Me</a>",28,FALSE
+"<a href=""http://w.sns.ly"" rel=""nofollow"">SNS Analytics</a>",134,FALSE
+"<a href=""http://twtr.jp"" rel=""nofollow"">Keitai Web</a>",40,FALSE
+"<a href=""http://twtkr.com"" rel=""nofollow"">twtkr</a>",61,FALSE
+"<a href=""http://twitzip.com"" rel=""nofollow"">TwitZip</a>",49,FALSE
+"<a href=""http://twittme.mobi"" rel=""nofollow"">twittme.mobi</a>",20,TRUE
+"<a href=""http://twitterrific.com"" rel=""nofollow"">Twitterrific</a>",1296,MIXED
+"<a href=""http://twitterfeed.com"" rel=""nofollow"">twitterfeed</a>",12048,FALSE
+"<a href=""http://twittercounter.com"" rel=""nofollow"">The Visitor Widget</a>",39,FALSE
+"<a href=""http://twitter.com/USACities/cities"" rel=""nofollow"">Cities</a>",114,FALSE
+"<a href=""http://twitter.com/tweetbutton"" rel=""nofollow"">Tweet Button</a>",1529,FALSE
+"<a href=""http://twitter.com/devices"" rel=""nofollow"">txt</a>",3294,TRUE
+"<a href=""http://twitter.com/"" rel=""nofollow"">Twitter for iPhone</a>",17165,TRUE
+"<a href=""http://twitter.com"" rel=""nofollow"">Tweetie for Mac</a>",1221,FALSE
+"<a href=""http://twittbot.net/"" rel=""nofollow"">twittbot.net</a>",63,FALSE
+"<a href=""http://twitpic.com"" rel=""nofollow"">Twitpic</a>",743,MIXED
+"<a href=""http://twitcam.com"" rel=""nofollow"">Twitcam.com</a>",690,FALSE
+"<a href=""http://twidroyd.com"" rel=""nofollow"">twidroyd</a>",2593,TRUE
+"<a href=""http://twidroid.com"" rel=""nofollow"">twidroid</a>",245,TRUE
+"<a href=""http://twicca.r246.jp/"" rel=""nofollow"">twicca</a>",1,TRUE
+"<a href=""http://twibbon.com"" rel=""nofollow"">Twibbon</a>",268,FALSE
+"<a href=""http://tweettogo.com"" rel=""nofollow"">TweetToGo</a>",13,TRUE
+"<a href=""http://tweetsride.com/"" rel=""nofollow"">TweetsRide</a>",20,TRUE
+"<a href=""http://tweetmyjobs.com"" rel=""nofollow"">SafeTweet by TweetMyJOBS</a>",330,FALSE
+"<a href=""http://tweetmeme.com"" rel=""nofollow"">TweetMeme</a>",333,FALSE
+"<a href=""http://tweetitow.com"" rel=""nofollow"">@tweetitow</a>",27,TRUE
+"<a href=""http://tweethopper.com"" rel=""nofollow"">Tweethopper</a>",38,FALSE
+"<a href=""http://tweetcatch.com"" rel=""nofollow"">TweetCatch.com</a>",56,TRUE
+"<a href=""http://tweet.sg/"" rel=""nofollow"">TweetSG</a>",28,TRUE
+"<a href=""http://tweed.pivotallabs.com"" rel=""nofollow"">Tweed webOS</a>",18,TRUE
+"<a href=""http://touchtwit.net"" rel=""nofollow"">TouchTwit</a>",13,TRUE
+"<a href=""http://tinyurl.com/tweetcaster"" rel=""nofollow"">TweetCaster</a>",17,TRUE
+"<a href=""http://tinychat.com"" rel=""nofollow"">Tinychat Connector</a>",410,FALSE
+"<a href=""http://su.pr/"" rel=""nofollow"">Su.pr</a>",26,FALSE
+"<a href=""http://stone.com/Twittelator"" rel=""nofollow"">Twittelator</a>",118,TRUE
+"<a href=""http://status.net"" rel=""nofollow"">status.net</a>",42,FALSE
+"<a href=""http://splitweet.com"" rel=""nofollow"">Splitweet</a>",18,FALSE
+"<a href=""http://sites.google.com/site/yorufukurou/"" rel=""nofollow"">YoruFukurou</a>",39,FALSE
+"<a href=""http://sgBEAT.com/"" rel=""nofollow"">sgBEAT</a>",48,TRUE
+"<a href=""http://seesmic.com/seesmic_mobile/wp7/"" rel=""nofollow"">Seesmic for Windows Phone 7</a>",2,TRUE
+"<a href=""http://seesmic.com/seesmic_mobile/iphone/"" rel=""nofollow"">Seesmic for iPhone</a>",6,TRUE
+"<a href=""http://seesmic.com/seesmic_mobile/blackberry/"" rel=""nofollow"">Seesmic for BlackBerry</a>",47,TRUE
+"<a href=""http://seesmic.com/seesmic_mobile/android/"" rel=""nofollow"">Seesmic for Android</a>",180,TRUE
+"<a href=""http://seesmic.com/seesmic_desktop/sd2"" rel=""nofollow"">Seesmic Desktop</a>",455,FALSE
+"<a href=""http://seesmic.com/app"" rel=""nofollow"">Seesmic Web</a>",193,FALSE
+"<a href=""http://schmap.it"" rel=""nofollow"">schmap.it</a>",22,FALSE
+"<a href=""http://rockmelt.com"" rel=""nofollow"">RockMelt</a>",46,FALSE
+"<a href=""http://raptr.com/"" rel=""nofollow"">Raptr</a>",20,FALSE
+"<a href=""http://rakubots.kissa.jp/"" rel=""nofollow"">rakubo2</a>",21,FALSE
+"<a href=""http://publicize.wp.com/"" rel=""nofollow"">WordPress.com</a>",17,FALSE
+"<a href=""http://posterous.com"" rel=""nofollow"">Posterous</a>",50,MIXED
+"<a href=""http://plurk.com"" rel=""nofollow"">Plurk</a>",39,FALSE
+"<a href=""http://plixi.com"" rel=""nofollow"">Plixi</a>",20,MIXED
+"<a href=""http://plixi.com"" rel=""nofollow"">Plixi</a>",52,MIXED
+"<a href=""http://plixi.com"" rel=""nofollow"">Plixi for iPhone</a>",6,TRUE
+"<a href=""http://playmobsterworld.com"" rel=""nofollow"">Mobster World</a>",57,FALSE
+"<a href=""http://ping.fm/"" rel=""nofollow"">Ping.fm</a>",545,FALSE
+"<a href=""http://picplz.com/"" rel=""nofollow"">picplz</a>",33,TRUE
+"<a href=""http://perha.ps/"" rel=""nofollow"">Perhaps</a>",97,FALSE
+"<a href=""http://pavo.me"" rel=""nofollow"">PavoMe</a>",32,TRUE
+"<a href=""http://paper.li"" rel=""nofollow"">Paper.li</a>",19,FALSE
+"<a href=""http://mytopfollowersin2010.com"" rel=""nofollow"">My Top Followers in 2010</a>",102,FALSE
+"<a href=""http://mylinksmyads.com"" rel=""nofollow"">mylinksmyads</a>",26,FALSE
+"<a href=""http://motionobj.com/simplytweet"" rel=""nofollow"">SimplyTweet</a>",32,TRUE
+"<a href=""http://mobtweet.net"" rel=""nofollow"">mobTweet</a>",42,TRUE
+"<a href=""http://mobitweet.starhub.com/"" rel=""nofollow"">StarHub MobiTweet</a>",23,TRUE
+"<a href=""http://mobileways.de/gravity"" rel=""nofollow"">Gravity</a>",240,TRUE
+"<a href=""http://mobile.twitter.com"" rel=""nofollow"">Twitter for Android</a>",1968,TRUE
+"<a href=""http://mobile.twitter.com"" rel=""nofollow"">Mobile Web</a>",9331,TRUE
+"<a href=""http://messaging.nokia.com/site/main.do"" rel=""nofollow""> Ovi by Nokia </a>",38,TRUE
+"<a href=""http://m.tweete.net"" rel=""nofollow"">m.tweete.net</a>",838,TRUE
+"<a href=""http://m.tuitwit.com"" rel=""nofollow"">Tuitwit</a>",225,TRUE
+"<a href=""http://m.dabr.co.uk"" rel=""nofollow"">Dabr</a>",435,TRUE
+"<a href=""http://lifestream.aol.com"" rel=""nofollow"">AOL Lifestream</a>",6,FALSE
+"<a href=""http://levelupstudio.com"" rel=""nofollow"">Touiteur</a>",1579,TRUE
+"<a href=""http://kiwi-app.net"" rel=""nofollow"">Kiwi</a>",13,FALSE
+"<a href=""http://kanvaso.com"" rel=""nofollow"">Kanvaso</a>",22,FALSE
+"<a href=""http://iTweet.net"" rel=""nofollow"">iTweet.net</a>",68,FALSE
+"<a href=""http://itunes.apple.com/app/twitvid/id317646079?mt=8"" rel=""nofollow"">TwitVid iPhone</a>",1,TRUE
+"<a href=""http://itunes.apple.com/app/twitter/id333903271?mt=8"" rel=""nofollow"">Twitter for iPad</a>",76,TRUE
+"<a href=""http://itunes.apple.com/app/dexigner/id319785197?mt=8"" rel=""nofollow"">Dexigner iPhone App</a>",20,TRUE
+"<a href=""http://instagr.am"" rel=""nofollow"">Instagram</a>",197,TRUE
+"<a href=""http://incourts.co.uk/"" rel=""nofollow"">In Courts Daily</a>",21,FALSE
+"<a href=""http://identi.ca"" rel=""nofollow"">identica</a>",18,FALSE
+"<a href=""http://icebirdapp.com/"" rel=""nofollow"">Icebird for iPhone</a>",2,TRUE
+"<a href=""http://hellotxt.com"" rel=""nofollow"">hellotxt.com</a>",140,MIXED
+"<a href=""http://gowalla.com/"" rel=""nofollow"">Gowalla</a>",129,TRUE
+"<a href=""http://gomiso.com"" rel=""nofollow"">Miso</a>",21,FALSE
+"<a href=""http://gladlyCast.com"" rel=""nofollow"">gladlyCast SMS</a>",27,TRUE
+"<a href=""http://github.com/cezarsa/chromed_bird"" rel=""nofollow"">Chromed Bird</a>",425,FALSE
+"<a href=""http://getspaz.com"" rel=""nofollow"">Spaz</a>",39,MIXED
+"<a href=""http://getsocialscope.com"" rel=""nofollow"">SocialScope</a>",257,TRUE
+"<a href=""http://getreachcast.com"" rel=""nofollow"">ReachCast</a>",8,FALSE
+"<a href=""http://getglue.com"" rel=""nofollow"">GetGlue.com</a>",32,MIXED
+"<a href=""http://fwix.com"" rel=""nofollow"">Fwix</a>",38,FALSE
+"<a href=""http://fun140.com/"" rel=""nofollow"">Fun140</a>",443,FALSE
+"<a href=""http://friendfeed.com"" rel=""nofollow"">FriendFeed</a>",188,FALSE
+"<a href=""http://foursquare.com"" rel=""nofollow"">foursquare</a>",4871,TRUE
+"<a href=""http://formspring.me"" rel=""nofollow"">Formspring.me</a>",37,FALSE
+"<a href=""http://flickr.com/services/twitter/"" rel=""nofollow"">Flickr</a>",42,FALSE
+"<a href=""http://faxo.com/"" rel=""nofollow"">Faxo.com</a>",26,FALSE
+"<a href=""http://favstar.fm"" rel=""nofollow"">Favstar.FM</a>",28,FALSE
+"<a href=""http://dlvr.it"" rel=""nofollow"">dlvr.it</a>",1126,FALSE
+"<a href=""http://dev.twitter.com/"" rel=""nofollow"">API</a>",49,FALSE
+"<a href=""http://cyg-one.net/TweetBot"" rel=""nofollow"">CyG TweetBot</a>",22,FALSE
+"<a href=""http://cyg-newsagent.net/"" rel=""nofollow"">CyG NewsAgent</a>",20,FALSE
+"<a href=""http://cotweet.com/?utm_source=sp1"" rel=""nofollow"">CoTweet</a>",175,FALSE
+"<a href=""http://closebyme.com"" rel=""nofollow"">closebyme</a>",20,FALSE
+"<a href=""http://buzztap.com"" rel=""nofollow"">buzztap</a>",14,FALSE
+"<a href=""http://brightkite.com"" rel=""nofollow"">Brightkite</a>",8,MIXED
+"<a href=""http://bit.ly"" rel=""nofollow"">bitly</a>",154,FALSE
+"<a href=""http://beta.twitlonger.com"" rel=""nofollow"">TwitLonger Beta</a>",43,FALSE
+"<a href=""http://bdcast.com/hierarchy/secondary.php?maj=102&sec=209"" rel=""nofollow"">TRE - The Radio Experience</a>",13,FALSE
+"<a href=""http://apps.facebook.com/status-shuffle/?from=twitter"" rel=""nofollow"">Status Shuffle</a>",21,FALSE
+"<a href=""http://adium.im"" rel=""nofollow"">Adium</a>",14,FALSE
+"<a href=""http://83degrees.com/to/powertwitter"" rel=""nofollow"">Power Twitter</a>",294,FALSE
+"<a href=""http://1e10.org/cloud/"" rel=""nofollow"">1e10</a>",23,FALSE
+"<a href=""/devices"" rel=""nofollow"">txt</a>",8748,TRUE
+"<a href=""http://www.ubertwitter.com/bb/download.php"" rel=""nofollow"">berTwitter</a>",25,TRUE

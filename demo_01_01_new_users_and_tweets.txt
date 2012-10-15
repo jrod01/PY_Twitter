@@ -1,0 +1,10 @@
+# by increasing the user_id, we can access newer and newer users...
+
+python -m roost.twitter user_created_at 590027856
+>> Fri May 25 12:22:42 +0000 2012
+
+python -m roost.twitter user_created_at 591027856
+>> Sat May 26 15:48:47 +0000 2012
+
+python -m roost.twitter user_created_at 592027856
+>> Sun May 27 18:20:45 +0000 2012
